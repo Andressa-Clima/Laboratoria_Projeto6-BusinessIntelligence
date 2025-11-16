@@ -1,4 +1,4 @@
-# Laboratoria_Projeto6-BusinessIntelligence
+# Laboratoria_Projeto6-BusinessIntelligence AIRBNB
 🎯 Objetivo do Projeto
 
 O projeto tem como finalidade realizar uma análise aprofundada dos dados do Airbnb, utilizando princípios de Business Intelligence para:
